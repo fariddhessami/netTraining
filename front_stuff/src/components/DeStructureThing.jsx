@@ -6,7 +6,7 @@ function DeStructureThing() {
   const [a, b] = array_1;
 
   console.log('a:' + a);
-  console.log('b:' + a);
+  console.log('b:' + b);
 
   const weaponObject = {
     caliber: 5.56,
