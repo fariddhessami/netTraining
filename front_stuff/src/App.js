@@ -4,6 +4,8 @@ import './App.css';
 
 import DeStructureThing from './components/DeStructureThing';
 
+import MainPage from './components/pages/MainPage';
+
 function App() {
   return (
     <div className="App">
@@ -22,6 +24,7 @@ function App() {
         </a>
       </header>
       <DeStructureThing />
+      <MainPage />
     </div>
   );
 }
