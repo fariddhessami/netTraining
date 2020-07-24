@@ -30,8 +30,8 @@ class MainPage extends Component {
             <Route path="/about">
               <About />
             </Route>
-            <Route path="/users">
-              <Users />
+            <Route path="/login">
+              <Login />
             </Route>
             <Route path="/">
               <Home />
@@ -53,6 +53,6 @@ function About() {
   return <h2>About</h2>;
 }
 
-function Users() {
-  return <h2>Users</h2>;
+function Login() {
+  return <h2>Login</h2>;
 }

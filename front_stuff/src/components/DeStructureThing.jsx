@@ -23,12 +23,7 @@ function DeStructureThing() {
 
   return (
     <div>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum
-        molestias tenetur tempora asperiores autem. Vero veniam asperiores
-        voluptate incidunt illo quidem, eveniet quibusdam nihil quam odio
-        possimus iure aliquam magnam.
-      </p>
+      <p></p>
     </div>
   );
 }
